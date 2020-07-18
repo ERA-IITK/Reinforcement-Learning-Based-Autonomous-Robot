@@ -4,3 +4,5 @@
 - A simulation environment using PyMunk and PyGame for the designated arena (as provided).
 - Our model explores all the arising possibilities during the match and find the best decisions to take under given circumstances using Deep Q-Learning.
 
+## Video Link
+  https://youtu.be/x2HjnA48OpI
